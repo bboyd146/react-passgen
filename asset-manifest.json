@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-passgen/static/css/main.a34f8609.css",
+    "main.js": "/react-passgen/static/js/main.344aada3.js",
+    "static/js/453.8b375206.chunk.js": "/react-passgen/static/js/453.8b375206.chunk.js",
+    "index.html": "/react-passgen/index.html",
+    "main.a34f8609.css.map": "/react-passgen/static/css/main.a34f8609.css.map",
+    "main.344aada3.js.map": "/react-passgen/static/js/main.344aada3.js.map",
+    "453.8b375206.chunk.js.map": "/react-passgen/static/js/453.8b375206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34f8609.css",
+    "static/js/main.344aada3.js"
+  ]
+}
